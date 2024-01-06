@@ -1,0 +1,5 @@
+camera
+tflite_flutter
+tflite_flutter_helper
+google_ml_kit
+path_provider
